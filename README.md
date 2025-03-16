@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Odin Project**
 
-- 📝 I regularly write articles on [https://medium.com/@areebahmedkhan007](https://medium.com/@areebahmedkhan007)
+- 📝 I regularly write articles on [https://dev.to/pineapple4623](https://dev.to/pineapple4623)
 
 - 📫 How to reach me **areebahmedkhan007@gmail.com**
 
